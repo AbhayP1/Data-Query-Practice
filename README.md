@@ -2,12 +2,11 @@
 
 These are my solutions to querying questions | In: SQL, Python.
 
-The aim of solving these questions were to: 
-   - Practice coding for data related fields. (e.g. data engineering)
+- The aim of solving these questions were to: Practice coding for data related fields. (e.g. data engineering)
 
-Question Provider: StrataScratch
+- Question Provider: StrataScratch
 
-Data Repository: Database (Relational)
+- Data Repository: Database (Relational)
 
 Hope this helps, for those self studying and need assitance.
 
